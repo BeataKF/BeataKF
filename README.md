@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BeataKF
-- 👀 I’m interested in mTab
+- 👀 I’m interested in testing and PM
 - 🌱 I’m currently learning Java, Java Script 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
